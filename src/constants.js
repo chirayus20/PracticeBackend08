@@ -1,1 +1,1 @@
-export const DB_NAME = "Practice_backend_data";
+export const DB_NAME = "Database";
